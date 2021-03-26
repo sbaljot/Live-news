@@ -1,0 +1,82 @@
+#heading{
+    color: rgb(241, 56, 93);
+    padding-left: 2%;
+}
+.custom-select{
+    width: 20%;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-bottom: solid white 2px;
+}
+#cn,#tn{
+    color: rgb(248, 142, 183);
+    margin-left: 3ch;
+    margin-right: 2ch;
+    font-weight: 700;
+    font-size: 2.3ch;
+}
+select{
+    background-color: transparent;
+    color: rgb(85, 185, 202);
+    font-weight: 500;
+}
+#searchbtn{
+    margin-left: 3ch;
+    width: 13ch;
+}
+body{
+    background-color: rgb(247, 247, 173);
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+#tempright{
+    text-align: right;
+}
+#newsFirst,#subFirst{
+    font-size: 3ch;
+}
+img{
+    display: block;
+}
+#uparrow{
+    margin-left: 85%;
+}
+#downarrow{
+    margin-left: 45%;
+}
+#templeft{
+    text-align: center;
+    margin-top: 8ch;
+}
+.p-3{
+    background-color: darkkhaki;
+    min-height: 30ch;
+}
+a{
+    color: rgb(19, 100, 167);
+    font-style: italic;
+}
+.container{
+    margin-top: 5%;
+}
+footer{
+    text-align: center;
+    margin-right: 2%;
+}
+#submail{
+    width: 50ch;
+    border-bottom: solid 7px rgb(100, 2, 7);
+}
+#submitbtn{
+    display: block;
+    margin-left: 45%;
+    margin-bottom: 2%;
+    width: 13ch;
+}
+.footer-components{
+    margin-top: 3ch;
+}
+#tytext{
+    color: forestgreen;
+    display: none;
+}
